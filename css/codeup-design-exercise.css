@@ -1,0 +1,50 @@
+body {
+    background-color: #E6E6E6;
+}
+
+h1 {
+    font-family: "Anton", sans-serif;
+    font-size: 64px;
+}
+
+h3 {
+    font-family: "Anton", sans-serif;
+    font-size: 36px;
+}
+
+.round-btns {
+    background-color: #e6563b;
+    border: 10px solid #f0f0f0;
+    border-radius: 50%;
+    width: 13em;
+    height: 13em;
+    color: #f0f0f0;
+    font-family: "Anton", sans-serif;
+}
+
+.round-btns h4 {
+    font-size: 2.5em;
+    line-height: 4.5em;
+}
+
+.codeup-design {
+    font-family: "Abel", sans-serif;
+
+}
+
+#btn-design {
+    background-color: #e6563b;
+}
+
+#btn-dev {
+    background-color: #EB9D3A;
+}
+
+#btn-sup {
+    background-color: #7CB06C;
+}
+
+#btn-host {
+    background-color: #00ABA9;
+}
+
