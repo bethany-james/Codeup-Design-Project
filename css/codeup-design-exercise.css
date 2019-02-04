@@ -12,6 +12,10 @@ h3 {
     font-size: 36px;
 }
 
+.baby-titles {
+    font-family: "Anton", sans-serif;
+}
+
 .logo {
     width: 13em;
     height: auto;
@@ -35,6 +39,11 @@ h3 {
 .codeup-design {
     font-family: "Abel", sans-serif;
 
+}
+
+.baby-imgs {
+    width: 3em;
+    height: 3em;
 }
 
 #btn-design {
