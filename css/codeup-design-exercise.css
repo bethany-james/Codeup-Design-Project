@@ -12,6 +12,11 @@ h3 {
     font-size: 36px;
 }
 
+.logo {
+    width: 13em;
+    height: auto;
+}
+
 .round-btns {
     background-color: #e6563b;
     border: 10px solid #f0f0f0;
