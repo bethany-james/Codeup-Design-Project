@@ -12,6 +12,8 @@ h3 {
     font-size: 36px;
 }
 
+
+
 img.daddy-imgs {
     width: 100%;
     height: auto;
@@ -51,6 +53,10 @@ img.daddy-imgs {
     height: 3em;
 }
 
+.tweet {
+    color: #65A0F0;
+}
+
 #btn-design {
     background-color: #e6563b;
 }
@@ -66,4 +72,5 @@ img.daddy-imgs {
 #btn-host {
     background-color: #00ABA9;
 }
+
 
