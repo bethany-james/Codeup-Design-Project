@@ -1,5 +1,7 @@
 body {
     background-color: #E6E6E6;
+    font-family: "Abel", sans-serif;
+    margin-bottom: 4em;
 }
 
 h1 {
@@ -11,7 +13,6 @@ h3 {
     font-family: "Anton", sans-serif;
     font-size: 36px;
 }
-
 
 
 img.daddy-imgs {
@@ -28,12 +29,35 @@ img.daddy-imgs {
     height: auto;
 }
 
+.icon {
+    height: 1.5em;
+    width: 1.5em;
+    font-family: "Anton", sans-serif;
+}
+
+.icon-des {
+    background-color: #e6563b;
+}
+
+.icon-dev {
+    background-color: #EB9D3A;
+}
+
+.icon-sup {
+    background-color: #7CB06C;
+}
+
+.icon-host {
+    background-color: #00ABA9;
+}
+
 .round-btns {
     background-color: #e6563b;
     border: 10px solid #f0f0f0;
     border-radius: 50%;
     width: 13em;
     height: 13em;
+    /*height: auto;*/
     color: #f0f0f0;
     font-family: "Anton", sans-serif;
 }
@@ -72,5 +96,64 @@ img.daddy-imgs {
 #btn-host {
     background-color: #00ABA9;
 }
+
+
+
+.tiny-text h6 {
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+
+@media screen and (min-width: 576px) {
+    .tiny-text h6 {
+        font-size: .85em;
+    }
+
+    .icon {
+        font-size: .75em;
+    }
+
+    .round-btns {
+        width: 8em;
+        height: 8em;
+
+    }
+
+    .round-btns h4 {
+        font-size: 1.5em;
+        line-height: 4.5em;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+
+    .four-circle {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .round-btns {
+        width: 10em;
+        height: 10em;
+    }
+
+
+    .round-btns h4 {
+        font-size: 2em;
+        line-height: 4.5em;
+    }
+}
+
+
+
+
 
 
